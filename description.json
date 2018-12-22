@@ -1,0 +1,18 @@
+{
+"name": "Manuel",
+"surname": "Mejia",
+"age": 27,
+"nationality": "Dominican",
+"education": "(B.Sc.) Computer Engineering",
+"profesion":"software developer",
+"skills":  ["HTML","CSS","JavaScript","Vue.js","Angular.js","jQuery","Material Design","Bootstrap","C#","ASP.NET Framework/Core","Entity Framework","NodeJS","MS SQL","MongoDB","Git","TFS","SharePoint","Scrum","Azure Cloud Platform","Amazon Web Services"
+],
+"strengths":["creative","team player","curious","easygoing", "honest", "results-oriented"],
+"interests": [ "working remotely in an amazing company", "contribute with my knowledge", "build wonderful products"],
+"hobbies": [
+"softball",
+"travel",
+"blog",
+"Pokemon"
+]
+}
