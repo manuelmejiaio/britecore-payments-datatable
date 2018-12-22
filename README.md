@@ -1,7 +1,8 @@
 # BriteCore-Payments-DataTable
 
 The project's goal is to build from scratch (in a few hours) a data table component, which simulates the payment data for one of the BriteCore products.
-![Alt text](https://github.com/mejiamanuel57/vue-google-signin-button-directive/raw/master/screenshot.jpg)
+
+![Alt text](https://github.com/mejiamanuel57/britecore-payments-datatable/raw/master/screenshot.jpg)
 
 ## How was done
 
@@ -45,16 +46,14 @@ npm run test-watch
 ##### How long did you spend on the test? 
 A total of 12 hours + 1 hour of documentation.
 ##### Would you do anything differently if you had more time?
- ```javascript
-   * I would add:
-              * friendly pagination
-                options to send the invoice with an email
-                for mobile screen only show 2 columns (Name and Status) and open the payments with a modal/pop-up
-                filter by multiple columns
-                storage the payments in a database to move the data between the backend and frontend using a GraphQL library.  
-                Make a more fancy UI/UX
-                More tests
- ```
+I would add:
+   - friendly pagination
+   - options to send the invoice with an email
+   - for mobile screen only show 2 columns (Name and Status) and open the payments with a modal/pop-up
+   - filter by multiple columns
+   - storage the payments in a database to move the data between the backend and frontend using a GraphQL library.  
+   - make a more fancy UI/UX
+   - more tests
 
 ##### In what ways would you adapt your component so that it could be used in many different scenarios where a data table is required?
 I would receive the data and the properties of the data as a vue props, identifying the date, numerical and editable columns. Also, I would receive the align and class of each one.
