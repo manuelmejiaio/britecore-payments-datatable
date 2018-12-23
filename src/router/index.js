@@ -13,5 +13,5 @@ export default new Router({
     }
   ],
   mode: 'history',
-  base: __dirname
+  base: process.env.BASE
 })
