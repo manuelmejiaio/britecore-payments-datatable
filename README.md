@@ -31,7 +31,7 @@ npm install
 npm run dev
 ```
 
-## How run the production version
+## How to run the production version
 Link: [https://mejiamanuel57.github.io/britecore-payments-datatable](https://mejiamanuel57.github.io/britecore-payments-datatable).
 ## How to run the tests
 ``` bash
@@ -48,18 +48,18 @@ A total of 12 hours + 1 hour of documentation.
 ##### Would you do anything differently if you had more time?
 I would add:
    - friendly pagination
-   - options to send the invoice with an email
-   - for mobile screen only show 2 columns (Name and Status) and open the payments with a modal/pop-up
+   - option to send the invoice attached to an email
+   - for the mobile screen version, only show 2 columns (Name and Status) and open the payments with a modal/pop-up
    - filter by multiple columns
    - storage the payments in a database to move the data between the backend and frontend using a GraphQL library.  
-   - make a more fancy UI/UX
+   - make a fancier UI/UX
    - more tests
 
 ##### In what ways would you adapt your component so that it could be used in many different scenarios where a data table is required?
 I would receive the data and the properties of the data as a vue props, identifying the date, numerical and editable columns. Also, I would receive the align and class of each one.
 
 ##### What is one CSS property that you recently learned about that helped you solve a problem?
-I wanted to use Sass/SCSS for this project and therefore I had to learn in a few minutes, that was the highlight.
+I wanted to use Sass/SCSS for this project and therefore I had to learn about it in a few minutes.
 
 License
 MIT
