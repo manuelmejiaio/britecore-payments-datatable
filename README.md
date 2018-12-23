@@ -32,7 +32,7 @@ npm run dev
 ```
 
 ## How run the production version
-Link: [The Cubical website repo](http://cubicalconsulting.com/?Website).
+Link: [https://mejiamanuel57.github.io/britecore-payments-datatable](https://mejiamanuel57.github.io/britecore-payments-datatable).
 ## How to run the tests
 ``` bash
 
