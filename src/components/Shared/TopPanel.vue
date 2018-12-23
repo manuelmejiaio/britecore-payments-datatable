@@ -3,7 +3,7 @@
   <div>
     <div class="topnav" ref="topPanel">
       <a class="logo" href="#">
-        <img src="@/assets/logo.png" alt="BriteCore" height="120">
+        <img src="~@/assets/logo.png" alt="BriteCore" height="120">
       </a>
       <div class="links" @click="alertNavigationBar">
         <a href="#">Home</a>
