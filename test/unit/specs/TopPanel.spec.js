@@ -9,7 +9,7 @@ describe('TopPanel component', () => {
   })
 
   it('img source', () => {
-    expect(wrapper.find('img').attributes('src')).toEqual('/static/logo.png')
+    expect(wrapper.find('img').attributes('src')).toEqual('@/assets/logo.png')
   })
 
   it('click links', () => {
